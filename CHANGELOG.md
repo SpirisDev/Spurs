@@ -2,6 +2,12 @@
 
 All notable changes to Spurs Math are documented here.
 
+## [0.3.0] - 2026-11-16
+
+### Changed
+
+- Added `array.py` with array operations.
+
 ## [0.2.1] - 2026-11-14
 
 ### Changed
