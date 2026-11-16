@@ -3,9 +3,10 @@
 Spurs - Mathematical Framework for Python
 """
 
-__version__ = "0.1.0"
+__version__ = "0.3.0"
 __author__ = "Spiris"
 
+from spurs.array import Array
 from spurs.algebra import Algebra, Logarithms
 from spurs.basics import (
     Basic,
